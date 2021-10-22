@@ -1,5 +1,5 @@
 <h1>💻 Projeto Podcastr</h1>
-<p>Projeto desenvolvido durante o NLW5, projeto ministrado pelo pessoal da <a href="https://www.rocketseat.com.br/">Rocketseat</a>. O projeto consiste em uma plataforma de Podcasts, que tem como principal funcionalidade, escutar alguns episódios de podcast da Rocketseat.<p>
+<p>Projeto desenvolvido durante o NLW5, projeto ministrado pelo pessoal da <a href="https://www.rocketseat.com.br/">Rocketseat</a>. O projeto consiste em uma plataforma de Podcasts, que tem como principal funcionalidade, ouvir episódios de podcast da Rocketseat.<p>
 
 <h3>📌 Objetivo</h3>
 <p>O objetivo principal do projeto foi aprender um pouco mais sobre React, Next.js, ContextAPI, TypeScript e SCSS Modules./p>
